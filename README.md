@@ -7,8 +7,8 @@ game that we forced to make because my professor so freak
 =================================================================================
 
 PENGEMBANG:
-Giga Hidjrika Aura Adkhy (UNS/M0520033)
-Joseph Felix Damarta (UNS/M0520040)
+Giga Hidjrika Aura Adkhy (UNS/M0520033) https://github.com/Infinicus
+Joseph Felix Damarta (UNS/M0520040) https://github.com/Extra20Percent
 
 =================================================================================
 
