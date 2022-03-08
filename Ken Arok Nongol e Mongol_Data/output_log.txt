@@ -1,0 +1,58 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics (ID=0x9b41)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   30.0.101.1121
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Ken Arok Nongol_e Mongol\Ken Arok Nongol e Mongol_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Ken Arok Nongol_e Mongol\Ken Arok Nongol e Mongol_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Ken Arok Nongol_e Mongol\Ken Arok Nongol e Mongol_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Ken Arok Nongol_e Mongol\Ken Arok Nongol e Mongol_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Ken Arok Nongol_e Mongol\Ken Arok Nongol e Mongol_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Ken Arok Nongol_e Mongol\Ken Arok Nongol e Mongol_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\Ken Arok Nongol_e Mongol\Ken Arok Nongol e Mongol_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\Ken Arok Nongol_e Mongol\Ken Arok Nongol e Mongol_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.296 seconds
+Platform assembly: F:\Ken Arok Nongol_e Mongol\Ken Arok Nongol e Mongol_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\Ken Arok Nongol_e Mongol\Ken Arok Nongol e Mongol_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 2726x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.456300 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2a5c -> priority: 1 
+  Thread -> id: 1aa4 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.088100 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 333.
+Total: 0.260700 ms (FindLiveObjects: 0.026400 ms CreateObjectMapping: 0.018100 ms MarkObjects: 0.174200 ms  DeleteObjects: 0.041500 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.448400 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 302.
+Total: 0.282000 ms (FindLiveObjects: 0.025800 ms CreateObjectMapping: 0.022400 ms MarkObjects: 0.223400 ms  DeleteObjects: 0.009600 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.396200 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 333.
+Total: 0.763000 ms (FindLiveObjects: 0.033700 ms CreateObjectMapping: 0.028600 ms MarkObjects: 0.330800 ms  DeleteObjects: 0.368200 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.553000 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 6158.
+Total: 3.160300 ms (FindLiveObjects: 0.323500 ms CreateObjectMapping: 0.145100 ms MarkObjects: 1.093400 ms  DeleteObjects: 1.597400 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.526400 ms
+
+Unloading 1824 unused Assets to reduce memory usage. Loaded Objects now: 349.
+Total: 8.173700 ms (FindLiveObjects: 0.112400 ms CreateObjectMapping: 0.108400 ms MarkObjects: 0.251100 ms  DeleteObjects: 7.700800 ms)
+

@@ -1,0 +1,51 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class BuildManager : MonoBehaviour {
+
+	public static BuildManager instance;
+
+	void Awake()
+	{
+		if (instance != null) {
+			Debug.LogError ("More than one Build Manager!");
+			return;
+		}
+		instance = this;
+	}
+
+	public GameObject standardTowerPrefab;
+	public GameObject TowerBPrefab;
+	public GameObject TowerCPrefab;
+
+	public GameObject buildEffect;
+
+	private TowerBlueprint towerToBuild;
+
+	public bool CanBuild{ get { return towerToBuild != null; } }
+	public bool HasGold { get { return PlayerStats.Gold >= towerToBuild.cost; } }
+		
+	public void BuildTowerOn (Node node)
+	{
+		if (PlayerStats.Gold < towerToBuild.cost) {
+			Debug.Log ("Not enough gold!");
+			return;
+		}
+
+		PlayerStats.Gold -= towerToBuild.cost;
+
+		GameObject tower = (GameObject)Instantiate (towerToBuild.prefab, node.GetBuildPosition(), Quaternion.identity);
+		node.tower = tower;
+
+		GameObject effect = (GameObject)Instantiate (buildEffect, node.GetBuildPosition (), Quaternion.identity);
+		Destroy (effect, 5f);
+
+		Debug.Log ("Turret built! Money left: " + PlayerStats.Gold);
+	}
+
+	public void SelectTowerToBuild(TowerBlueprint tower)
+	{
+		towerToBuild = tower;
+	}
+}

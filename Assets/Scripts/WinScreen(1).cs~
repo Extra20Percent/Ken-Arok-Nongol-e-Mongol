@@ -1,0 +1,15 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
+public class WinScreen : MonoBehaviour {
+
+	public string menuSceneName = "MainMenu";
+	public GameObject winScreenUI;
+
+	public void Menu()
+	{
+		SceneManager.LoadScene (SceneManager.GetActiveScene().buildIndex);
+	}
+}

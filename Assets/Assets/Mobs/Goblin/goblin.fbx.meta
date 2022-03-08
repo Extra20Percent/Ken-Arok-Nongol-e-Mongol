@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 440a9313d71ae2e4090c89b74ff9685b
+timeCreated: 1621225833
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Antebrazo.L
+    100002: Antebrazo.R
+    100004: Armature
+    100006: Brazo.L
+    100008: Brazo.R
+    100010: Cabeza
+    100012: Cuello
+    100014: gemelo.L
+    100016: gemelo.R
+    100018: //RootNode
+    100020: Hig
+    100022: Lumbares
+    100024: mano.L
+    100026: mano.L_end
+    100028: mano.R
+    100030: mano.R_end
+    100032: Mundo
+    100034: Oreja.L
+    100036: Oreja.L_end
+    100038: Oreja.R
+    100040: Oreja.R_end
+    100042: Pie.L
+    100044: Pie.R
+    100046: Pierna.L
+    100048: Pierna.R
+    100050: PieTarget.L
+    100052: PieTarget.L_end
+    100054: PieTarget.R
+    100056: PieTarget.R_end
+    100058: Puntapie.L
+    100060: Puntapie.L_end
+    100062: Puntapie.R
+    100064: Puntapie.R_end
+    100066: Sphere.003
+    100068: torso
+    400000: Antebrazo.L
+    400002: Antebrazo.R
+    400004: Armature
+    400006: Brazo.L
+    400008: Brazo.R
+    400010: Cabeza
+    400012: Cuello
+    400014: gemelo.L
+    400016: gemelo.R
+    400018: //RootNode
+    400020: Hig
+    400022: Lumbares
+    400024: mano.L
+    400026: mano.L_end
+    400028: mano.R
+    400030: mano.R_end
+    400032: Mundo
+    400034: Oreja.L
+    400036: Oreja.L_end
+    400038: Oreja.R
+    400040: Oreja.R_end
+    400042: Pie.L
+    400044: Pie.R
+    400046: Pierna.L
+    400048: Pierna.R
+    400050: PieTarget.L
+    400052: PieTarget.L_end
+    400054: PieTarget.R
+    400056: PieTarget.R_end
+    400058: Puntapie.L
+    400060: Puntapie.L_end
+    400062: Puntapie.R
+    400064: Puntapie.R_end
+    400066: Sphere.003
+    400068: torso
+    4300000: Sphere.003
+    7400000: Armature|Idel
+    7400002: Armature|Standby
+    7400004: Armature|Walk
+    9500000: //RootNode
+    13700000: Sphere.003
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

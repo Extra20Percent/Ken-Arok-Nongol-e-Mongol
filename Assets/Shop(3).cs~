@@ -1,0 +1,33 @@
+﻿using UnityEngine;
+
+public class Shop : MonoBehaviour {
+
+	public TowerBlueprint standardTower;
+	public TowerBlueprint TowerB;
+	public TowerBlueprint TowerC;
+
+	BuildManager buildManager;
+
+	void Start()
+	{
+		buildManager = BuildManager.instance;
+	}
+
+	public void SelectTower()
+	{
+		Debug.Log ("Tower A selected!");
+		buildManager.SelectTowerToBuild (standardTower);
+	}
+
+	public void SelectTowerB()
+	{
+		Debug.Log ("Tower B selected!");
+		buildManager.SelectTowerToBuild (TowerB);
+	}
+
+	public void SelectTowerC()
+	{
+		Debug.Log ("Tower C selected!");
+		buildManager.SelectTowerToBuild (TowerC);
+	}
+}

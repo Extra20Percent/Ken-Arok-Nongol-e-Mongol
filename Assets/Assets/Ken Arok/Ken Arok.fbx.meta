@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: c8d67c52c7a66584a8bd69c067fbe038
+timeCreated: 1621224405
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone
+    100004: bone.anvil
+    100006: bone.anvil 1
+    100008: bone.anvil_end
+    100010: bone.armorer
+    100012: bone.hammer
+    100014: bone.hammerfeather
+    100016: bone.hammerfeather_end
+    100018: bulkGuy
+    100020: Camera
+    100022: chest
+    100024: f_index.01.L
+    100026: f_index.01.R
+    100028: f_index.02.L
+    100030: f_index.02.R
+    100032: f_index.03.L
+    100034: f_index.03.L_end
+    100036: f_index.03.R
+    100038: f_index.03.R_end
+    100040: f_middle.01.L
+    100042: f_middle.01.R
+    100044: f_middle.02.L
+    100046: f_middle.02.R
+    100048: f_middle.03.L
+    100050: f_middle.03.L_end
+    100052: f_middle.03.R
+    100054: f_middle.03.R_end
+    100056: f_pinky.01.L
+    100058: f_pinky.01.R
+    100060: f_pinky.02.L
+    100062: f_pinky.02.R
+    100064: f_pinky.03.L
+    100066: f_pinky.03.L_end
+    100068: f_pinky.03.R
+    100070: f_pinky.03.R_end
+    100072: f_ring.01.L
+    100074: f_ring.01.R
+    100076: f_ring.02.L
+    100078: f_ring.02.R
+    100080: f_ring.03.L
+    100082: f_ring.03.L_end
+    100084: f_ring.03.R
+    100086: f_ring.03.R_end
+    100088: foot.L
+    100090: foot.R
+    100092: forearm.L
+    100094: forearm.R
+    100096: hand.L
+    100098: hand.R
+    100100: head
+    100102: head_end
+    100104: hips
+    100106: //RootNode
+    100108: Lamp
+    100110: Lamp.001
+    100112: neck
+    100114: Point
+    100116: Point.001
+    100118: shin.L
+    100120: shin.R
+    100122: shoulder.L
+    100124: shoulder.R
+    100126: spine
+    100128: thigh.L
+    100130: thigh.R
+    100132: thumb.01.L
+    100134: thumb.01.R
+    100136: thumb.02.L
+    100138: thumb.02.L_end
+    100140: thumb.02.R
+    100142: thumb.02.R_end
+    100144: toe.L
+    100146: toe.L_end
+    100148: toe.R
+    100150: toe.R_end
+    100152: upperarm.L
+    100154: upperarm.R
+    400000: Armature
+    400002: Bone
+    400004: bone.anvil
+    400006: bone.anvil 1
+    400008: bone.anvil_end
+    400010: bone.armorer
+    400012: bone.hammer
+    400014: bone.hammerfeather
+    400016: bone.hammerfeather_end
+    400018: bulkGuy
+    400020: Camera
+    400022: chest
+    400024: f_index.01.L
+    400026: f_index.01.R
+    400028: f_index.02.L
+    400030: f_index.02.R
+    400032: f_index.03.L
+    400034: f_index.03.L_end
+    400036: f_index.03.R
+    400038: f_index.03.R_end
+    400040: f_middle.01.L
+    400042: f_middle.01.R
+    400044: f_middle.02.L
+    400046: f_middle.02.R
+    400048: f_middle.03.L
+    400050: f_middle.03.L_end
+    400052: f_middle.03.R
+    400054: f_middle.03.R_end
+    400056: f_pinky.01.L
+    400058: f_pinky.01.R
+    400060: f_pinky.02.L
+    400062: f_pinky.02.R
+    400064: f_pinky.03.L
+    400066: f_pinky.03.L_end
+    400068: f_pinky.03.R
+    400070: f_pinky.03.R_end
+    400072: f_ring.01.L
+    400074: f_ring.01.R
+    400076: f_ring.02.L
+    400078: f_ring.02.R
+    400080: f_ring.03.L
+    400082: f_ring.03.L_end
+    400084: f_ring.03.R
+    400086: f_ring.03.R_end
+    400088: foot.L
+    400090: foot.R
+    400092: forearm.L
+    400094: forearm.R
+    400096: hand.L
+    400098: hand.R
+    400100: head
+    400102: head_end
+    400104: hips
+    400106: //RootNode
+    400108: Lamp
+    400110: Lamp.001
+    400112: neck
+    400114: Point
+    400116: Point.001
+    400118: shin.L
+    400120: shin.R
+    400122: shoulder.L
+    400124: shoulder.R
+    400126: spine
+    400128: thigh.L
+    400130: thigh.R
+    400132: thumb.01.L
+    400134: thumb.01.R
+    400136: thumb.02.L
+    400138: thumb.02.L_end
+    400140: thumb.02.R
+    400142: thumb.02.R_end
+    400144: toe.L
+    400146: toe.L_end
+    400148: toe.R
+    400150: toe.R_end
+    400152: upperarm.L
+    400154: upperarm.R
+    4300000: bulkGuy
+    4300002: bone.anvil
+    9500000: //RootNode
+    13700000: bone.anvil
+    13700002: bulkGuy
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

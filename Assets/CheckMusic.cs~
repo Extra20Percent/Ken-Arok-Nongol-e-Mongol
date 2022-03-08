@@ -1,0 +1,17 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class CheckMusic : MonoBehaviour {
+
+	public static bool backgroundNeeded = true;
+	public AudioSource backgroundMusic;
+
+	void Awake()
+	{
+		if (DontDestroyAudio.startAgain) {
+			backgroundMusic.Play ();
+			DontDestroyOnLoad (backgroundMusic);
+		}
+	}
+}
